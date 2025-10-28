@@ -32,10 +32,7 @@ This repository showcases my testing projects, documents, and hands-on work foll
 
 | Project | Type | Description | Folder Link |
 |----------|------|--------------|--------------|
-| **OrangeHRM Testing** | Functional / UI | Tested login, admin & employee modules on OrangeHRM demo site | [View Project](./OrangeHRM_Testing) |
-| **DemoBlaze Testing** | E-commerce | Tested product catalog, add-to-cart & checkout process | [View Project](./DemoBlaze_Testing) |
-| **Parabank Testing** | Banking | Validated registration, login & fund transfer modules | [View Project](./Parabank_Testing) |
-
+| **]Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Rediffmail_Testing) |
 ---
 
 ## 🧩 Project Details Example
