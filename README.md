@@ -32,7 +32,7 @@ This repository showcases my testing projects, documents, and hands-on work foll
 
 | Project | Type | Description | Folder Link |
 |----------|------|--------------|--------------|
-| **]Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Rediffmail_Testing) |
+| **Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Rediffmail_Testing) |
 ---
 
 ## 🧩 Project Details Example
