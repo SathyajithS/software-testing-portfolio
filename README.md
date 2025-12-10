@@ -8,7 +8,7 @@ This repository showcases my testing projects, documents, and hands-on work foll
 
 ## 👨‍💻 About Me
 - 💻 Passionate about **Manual & Functional Testing**
-- 🧠 Learning **Agile, SQL for Testers**, and **Postman (API Testing)**
+- 🧠 Learning **Agile, SQL for Testers**, and **Selenium (Automation Testing)**
 - 🐞 Skilled in writing **Test Cases**, **Bug Reports**, and **Test Plans**
 - 🔍 Strong understanding of **STLC**, **SDLC**, and **Defect Life Cycle**
 - 🎯 Goal: To grow as a QA Engineer capable of both **manual** and **automation** testing
