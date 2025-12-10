@@ -19,10 +19,10 @@ This repository showcases my testing projects, documents, and hands-on work foll
 
 | Category | Tools / Knowledge |
 |-----------|------------------|
-| Test Management | Excel, Google Sheets, TestLink |
-| Bug Tracking | Jira |
-| API Testing | Postman (Basic) |
+| Test Management | Excel, Google Sheets|
+| Automation tools | Selenium |
 | Database | SQL Basics |
+| Coding | Java Basics |
 | Process | Agile / Scrum |
 | Reporting | Test Summary, Defect Reports |
 
@@ -32,13 +32,14 @@ This repository showcases my testing projects, documents, and hands-on work foll
 
 | Project | Type | Description | Folder Link |
 |----------|------|--------------|--------------|
+| **BS SPORTS** | Functional / UI | Tested Homepage, Support pages, and account system modules | [View Project](./Rediffmail_Testing) |
 | **Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Rediffmail_Testing) |
 ---
 
 ## 🧩 Project Details
 
 ### 🔸 BS Sports-E Commerce website testing
-- URL: [https://bssports.in/](https://bssports.in/))
+- URL: [https://bssports.in/](https://bssports.in/)
 - Scope: Homepage, Support pages, and account system modules
 - Deliverables: 
   - Test Scenarios & Test Cases  
