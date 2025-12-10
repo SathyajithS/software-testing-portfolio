@@ -32,8 +32,8 @@ This repository showcases my testing projects, documents, and hands-on work foll
 
 | Project | Type | Description | Folder Link |
 |----------|------|--------------|--------------|
-| **BS SPORTS** | Functional / UI | Tested Homepage, Support pages, and account system modules | [View Project](./Rediffmail_Testing) |
-| **Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Rediffmail_Testing) |
+| **BS SPORTS** | Functional / UI | Tested Homepage, Support pages, and account system modules | [View Project](./Projects) |
+| **Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Projects) |
 ---
 
 ## 🧩 Project Details
