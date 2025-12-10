@@ -35,26 +35,18 @@ This repository showcases my testing projects, documents, and hands-on work foll
 | **Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Rediffmail_Testing) |
 ---
 
-## 🧩 Project Details Example
+## 🧩 Project Details
 
-### 🔸 OrangeHRM Manual Testing
-- URL: [https://opensource-demo.orangehrmlive.com/](https://opensource-demo.orangehrmlive.com/)
-- Scope: Login, Admin, and PIM modules
-- Deliverables:
-  - Test Plan  
+### 🔸 BS Sports-E Commerce website testing
+- URL: [https://bssports.in/](https://bssports.in/))
+- Scope: Homepage, Support pages, and account system modules
+- Deliverables: 
   - Test Scenarios & Test Cases  
   - Bug Reports  
-  - Test Summary Report  
-- Tools: Excel, Jira, Browser DevTools  
-
----
-
-## 📊 Agile Practice
-I practiced Agile methodology by:
-- Writing **User Stories**
-- Creating **Sprint Backlogs**
-- Reporting bugs in a simulated **Jira workflow**
-- Preparing **Daily Standup Notes**
+  - Test Summary Report
+  - Defect Distribution
+  - 
+- Tools: Excel, Browser  
 
 ---
 
