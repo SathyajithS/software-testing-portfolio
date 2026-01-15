@@ -1,7 +1,7 @@
 # 🧪 Software Testing Portfolio – Sathyajith S
 
 Welcome to my **Software Testing Portfolio**.  
-I’m a passionate **Manual Tester (Fresher)** exploring real-world QA practices using demo applications.  
+I’m a passionate **Manual and Automation Tester** exploring real-world QA practices using live and demo applications.  
 This repository showcases my testing projects, documents, and hands-on work 
 
 ---
