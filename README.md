@@ -2,7 +2,7 @@
 
 Welcome to my **Software Testing Portfolio**.  
 I’m a passionate **Manual Tester (Fresher)** exploring real-world QA practices using demo applications.  
-This repository showcases my testing projects, documents, and hands-on work following the **Agile/Scrum** methodology.
+This repository showcases my testing projects, documents, and hands-on work 
 
 ---
 
