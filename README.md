@@ -33,7 +33,7 @@ This repository showcases my testing projects, documents, and hands-on work
 | Project | Type | Description | Folder Link |
 |----------|------|--------------|--------------|
 | **BS SPORTS** | Functional / UI | Tested Homepage, Support pages, and account system modules |cc
-| **Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Automation Project) |
+| **Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Manual Project) |
 ---
 
 ## 🧩 Project Details
