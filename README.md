@@ -32,8 +32,8 @@ This repository showcases my testing projects, documents, and hands-on work
 
 | Project | Type | Description | Folder Link |
 |----------|------|--------------|--------------|
-| **CROMA** | Automation Testing| SELENIUM JAVA,MAVEN,POM,DATA DT |[View Project](./Automation Project)
-| **BS SPORTS** | Functional / UI | Tested Homepage, Support pages, and account system modules |[View Project](./Manual Project)
+| **CROMA** | Automation Testing| SELENIUM JAVA,MAVEN,POM,DATA DRIVEN | [View Project](./Projects) |
+| **BS SPORTS** | Functional / UI | Tested Homepage, Support pages, and account system modules | [View Project](./Projects) |
 | **Rediffmail Testing** | Functional / UI | Tested login, and basic features | [View Project](./Projects) |
 
 ---
