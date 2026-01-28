@@ -36,10 +36,12 @@ This repository showcases my **automation projects, manual testing deliverables,
 ## 📂 Featured Projects
 
 ### 🔹 CROMA E-Commerce – Automation Testing
-End-to-end Selenium automation framework built on a real e-commerce website.
-[View Project](./Projects/Automation%20Project)
-[![Tech](https://img.shields.io/badge/Selenium-Java-green?style=for-the-badge)](#)
 
+End-to-end Selenium automation framework built on a real e-commerce website.
+
+[![View Project](https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge)](./Projects/Automation%20Project)
+![Selenium](https://img.shields.io/badge/Selenium-grey?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-yellowgreen?style=for-the-badge)
 ---
 
 ### 🔹 BS Sports – Manual Testing
