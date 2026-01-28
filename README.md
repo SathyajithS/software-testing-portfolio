@@ -13,7 +13,7 @@ This repository showcases my **automation projects, manual testing deliverables,
 - Knowledge of **STLC, SDLC, Defect Life Cycle**
 - Experience in writing **Test Scenarios, Test Cases, Bug Reports, and Test Summary Reports**
 - Exposure to **Agile / Scrum methodology**
-- Actively seeking opportunities as a **Junior Test Engineer**
+- Actively seeking opportunities as a **QA Test Engineer**
 
 ---
 
