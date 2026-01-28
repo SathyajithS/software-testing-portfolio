@@ -35,11 +35,26 @@ This repository showcases my **automation projects, manual testing deliverables,
 
 ## 📂 Featured Projects
 
-| Project Name | Type | Description |
-|-------------|------|-------------|
-| **CROMA E-Commerce** | Automation Testing | End-to-end Selenium automation using Java, TestNG, Maven, POM, and Data-Driven testing |
-| **BS Sports** | Manual Testing | Functional and UI testing of an e-commerce website |
-| **Rediffmail** | Manual Testing | Functional testing of login and core features |
+### 🔹 CROMA E-Commerce – Automation Testing
+End-to-end Selenium automation framework built on a real e-commerce website.
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](./Projects/CROMA)
+[![Tech](https://img.shields.io/badge/Selenium-Java-green?style=for-the-badge)](#)
+
+---
+
+### 🔹 BS Sports – Manual Testing
+Functional and UI testing of an e-commerce website with complete QA documentation.
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](./Projects/BS_Sports)
+[![Docs](https://img.shields.io/badge/Test-Documents-orange?style=for-the-badge)](#)
+
+---
+
+### 🔹 Rediffmail – Manual Testing
+Functional testing of login and core email features.
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](./Projects/Rediffmail)
 
 ---
 
