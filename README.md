@@ -38,7 +38,7 @@ This repository showcases my **automation projects, manual testing deliverables,
 ### 🔹 CROMA E-Commerce – Automation Testing
 End-to-end Selenium automation framework built on a real e-commerce website.
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](./Projects/CROMA)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)][Croma E-commerce Automation](./Projects/Croma)
 [![Tech](https://img.shields.io/badge/Selenium-Java-green?style=for-the-badge)](#)
 
 ---
