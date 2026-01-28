@@ -1,7 +1,7 @@
 # 🧪 Software Testing Portfolio – Sathyajith S
 
 Welcome to my **Software Testing Portfolio**.  
-I am a **QA Trainee / Software Tester ** with hands-on experience in **Manual and Automation Testing** using real-world web applications.
+I am a QA Trainee / Software Tester with hands-on experience in **Manual and Automation Testing** using real-world web applications.
 
 This repository showcases my **automation projects, manual testing deliverables, and practical QA knowledge** aligned with industry practices.
 
