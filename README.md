@@ -57,7 +57,7 @@ Functional and UI testing of an e-commerce website with complete QA documentatio
 ### 🔹 Rediffmail – Manual Testing
 Functional testing of login and core email features.
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](./Projects/Rediffmail)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](./Projects)
 
 ---
 
