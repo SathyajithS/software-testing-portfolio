@@ -45,10 +45,12 @@ End-to-end Selenium automation framework built on a real e-commerce website.
 ---
 
 ### 🔹 BS Sports – Manual Testing
+
 Functional and UI testing of an e-commerce website with complete QA documentation.
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](./Projects/BS_Sports)
-[![Docs](https://img.shields.io/badge/Test-Documents-orange?style=for-the-badge)](#)
+[![View Project](https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge)](./Projects/Manual%20Project)
+[![Test](https://img.shields.io/badge/TEST-CASES-grey?style=for-the-badge)](./Projects/Manual%20Project/Test%20Cases)
+[![Documents](https://img.shields.io/badge/DOCUMENTS-orange?style=for-the-badge)](./Projects/Manual%20Project/Documents)
 
 ---
 
